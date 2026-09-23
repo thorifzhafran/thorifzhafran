@@ -35,7 +35,7 @@
   &nbsp;
   <a href="https://www.upwork.com/freelancers/~thorifzhafran"><img src="https://img.shields.io/badge/Upwork-6BR843?style=flat&logo=upwork&logoColor=white" alt="Upwork" /></a>
   &nbsp;
-  <a href="https://contra.com/thorif_zhafran_3uk03mvu/posts"><img src="https://img.shields.io/badge/Contra-000000?style=flat&logo=contra&logoColor=white" alt="Contra" /></a>
+  <a href="https://contra.com/thorif_zhafran_3uk03mvu/posts"><img src="https://img.shields.io/badge/Contra-FFFFFF?style=flat&logo=contra&logoColor=black" alt="Contra" /></a>
 </p>
 
 <br />
