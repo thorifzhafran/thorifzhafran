@@ -5,7 +5,6 @@
 
 <h<div>
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=thorifzhafran&color=000000&style=flat&label=PROFILE+VIEWS" alt="Profile Views" />
     <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_WORK-black?style=flat&logo=buffer&logoColor=white" alt="Available for Work" />
     <img src="https://img.shields.io/badge/EXPERIENCE-7+_YEARS-black?style=flat" alt="Experience" />
   </p>
@@ -55,15 +54,6 @@
 * **High-Converting Landing Pages:** High-contrast, distraction-free experiences with editorial visual direction and optimized page speed.
 * **Quotation & Invoice Generators:** Custom conditional logic, instant PDF/email summaries, and CRM integrations (HubSpot, Notion).
 * **API Architecture & Integrations:** Secure server-side routes, payment gateway automation, webhook handling, and AI chatbot integrations.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thorifzhafran&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="Thorif's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thorifzhafran&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="48%" />
-</p>
 
 ---
 
