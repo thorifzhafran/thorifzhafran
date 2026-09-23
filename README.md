@@ -3,12 +3,10 @@
   -- Creative Developer & Web App Builder
   -->
 
-<div>
-  <p align="center">
-    <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_WORK-black?style=flat&logo=buffer&logoColor=white" alt="Available for Work" />
-    <img src="https://img.shields.io/badge/EXPERIENCE-7+_YEARS-black?style=flat" alt="Experience" />
-  </p>
-</h<div>
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_WORK-black?style=flat&logo=buffer&logoColor=white" alt="Available for Work" />
+  <img src="https://img.shields.io/badge/EXPERIENCE-7+_YEARS-black?style=flat" alt="Experience" />
+</p>
 
 <h1 align="center">
   Hi there, I'm Thorif Zhafran <a href="https://www.thorifzhafran.com">⚡</a>
@@ -16,6 +14,28 @@
 
 <p align="center">
   <strong>Creative Developer & Web App Builder</strong> specializing in high-performance web applications, interactive digital tools, and production-ready interfaces that turn friction into automated revenue.
+</p>
+
+<p align="center">
+  <a href="https://www.thorifzhafran.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_Official_Website-000000?style=for-the-badge&logoColor=white" alt="Website" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:email@thorifzhafran.com">
+    <img src="https://img.shields.io/badge/✉️_email@thorifzhafran.com-000000?style=for-the-badge&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/thorifzhafran"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://www.instagram.com/thorifzhafran"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  &nbsp;
+  <a href="https://www.fiverr.com/thorifzhafran"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
+  &nbsp;
+  <a href="https://www.upwork.com/freelancers/~thorifzhafran"><img src="https://img.shields.io/badge/Upwork-6BR843?style=flat&logo=upwork&logoColor=white" alt="Upwork" /></a>
+  &nbsp;
+  <a href="https://contra.com/thorif_zhafran_3uk03mvu/posts"><img src="https://img.shields.io/badge/Contra-000000?style=flat&logo=contra&logoColor=white" alt="Contra" /></a>
 </p>
 
 <br />
@@ -42,8 +62,6 @@
 | **14 Days** | Average Turnaround from Prototype to Deployment |
 | **98/100** | Core Web Vitals Rating & Speed Guarantee |
 
-</div>
-
 ---
 
 ### 💡 Core Services
@@ -57,5 +75,5 @@
 
 <p align="center">
   <a href="https://www.thorifzhafran.com"><strong>🌐 Visit Official Website</strong></a> &nbsp;&bull;&nbsp;
-  <a href="https://contra.com/thorif_zhafran_3uk03mvu/posts"><strong>💼 Contra Profile</strong></a>
+  <a href="mailto:email@thorifzhafran.com"><strong>✉️ email@thorifzhafran.com</strong></a>
 </p>
