@@ -17,12 +17,12 @@
 </p>
 
 <p align="center">
-  <a href="https://www.thorifzhafran.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_Official_Website-000000?style=for-the-badge&logoColor=white" alt="Website" />
+  <a href="https://www.thorifzhafran.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/🌐%20%20thorifzhafran.com-transparent?style=for-the-badge&logoColor=white&color=2563eb" alt="Website" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:email@thorifzhafran.com">
-    <img src="https://img.shields.io/badge/✉️_email@thorifzhafran.com-000000?style=for-the-badge&logoColor=white" alt="Email" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:email@thorifzhafran.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/✉️%20%20email@thorifzhafran.com-transparent?style=for-the-badge&logoColor=white&color=7c3aed" alt="Email" />
   </a>
 </p>
 
