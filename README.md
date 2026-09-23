@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thorifzhafran"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/thorifzhafran"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" /></a>
   &nbsp;
   <a href="https://www.instagram.com/thorifzhafran"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
   &nbsp;
