@@ -35,8 +35,6 @@
 
 ### 🚀 Engineered For Impact
 
-<div align="center">
-
 | Metric | Detail |
 | :---: | :--- |
 | **38+** | Production-ready SaaS & Web Tools Built |
