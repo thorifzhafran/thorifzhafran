@@ -3,7 +3,7 @@
   -- Creative Developer & Web App Builder
   -->
 
-<h<div>
+<div>
   <p align="center">
     <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_WORK-black?style=flat&logo=buffer&logoColor=white" alt="Available for Work" />
     <img src="https://img.shields.io/badge/EXPERIENCE-7+_YEARS-black?style=flat" alt="Experience" />
