@@ -74,6 +74,5 @@
 ---
 
 <p align="center">
-  <a href="https://www.thorifzhafran.com"><strong>🌐 Visit Official Website</strong></a> &nbsp;&bull;&nbsp;
-  <a href="mailto:email@thorifzhafran.com"><strong>✉️ email@thorifzhafran.com</strong></a>
+  &nbsp;&bull;&nbsp <a href="https://www.thorifzhafran.com"><strong>🌐 Visit Official Website</strong></a> &nbsp;&bull;&nbsp;
 </p>
