@@ -1,95 +1,73 @@
-# Thorif Zhafran
+<!-- 
+  -- Thorif Zhafran | GitHub Profile README
+  -- Creative Developer & Web App Builder
+  -->
 
-**Web designer & developer.**
+<h<div>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=thorifzhafran&color=000000&style=flat&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_WORK-black?style=flat&logo=buffer&logoColor=white" alt="Available for Work" />
+    <img src="https://img.shields.io/badge/EXPERIENCE-7+_YEARS-black?style=flat" alt="Experience" />
+  </p>
+</h<div>
 
-I design and build websites where **visual design, technology, and communication** meet.
+<h1 align="center">
+  Hi there, I'm Thorif Zhafran <a href="https://www.thorifzhafran.com">⚡</a>
+</h1>
 
-My work is mostly focused on WordPress, front-end development, and digital experiences for businesses — from early concepts and Figma designs to the final responsive website.
+<p align="center">
+  <strong>Creative Developer & Web App Builder</strong> specializing in high-performance web applications, interactive digital tools, and production-ready interfaces that turn friction into automated revenue.
+</p>
 
-[Website ↗](https://thorifzhafran.com) · [LinkedIn ↗](https://id.linkedin.com/in/thorifzhafran)
-
----
-
-## Selected work
-
-### 01 — DyoClub
-
-A private club website built around a more refined and exclusive digital experience.
-
-`Web Design` `WordPress` `Elementor`
-
-### 02 — Blue In
-
-A modern website for an AI-driven cybersecurity company, combining a technical subject with a futuristic visual direction.
-
-`Web Design` `WordPress` `Elementor`
-
-### 03 — Surya Fortuna
-
-A website redesign focused on simplifying the interface while improving usability, performance, and responsiveness.
-
-`Redesign` `UI/UX` `WordPress`
-
-### 04 — CreativeZ
-
-A dark, modern website for a digital agency with an emphasis on clarity, elegance, and trust.
-
-`Web Design` `WordPress` `Elementor`
-
-### 05 — AMR Digital Marketing
-
-A redesign for a digital marketing company, translating an existing brand into a cleaner and more contemporary web experience.
-
-`Redesign` `UI/UX` `WordPress`
-
-### 06 — Chat App
-
-An interface exploration for a modern chat application with AI assistance.
-
-`UI/UX` `Figma`
-
-[View the full portfolio ↗](https://thorifzhafran.com)
+<br />
 
 ---
 
-## Stack
+### 🛠️ Technical Toolkit
 
-**Design**
-
-`Figma`
-
-**Frontend**
-
-`HTML` `CSS` `JavaScript`
-
-**CMS**
-
-`WordPress` `Elementor`
-
-**Other**
-
-`Python` `Git` `GitHub`
+| Category | Technologies & Ecosystem |
+| :--- | :--- |
+| **Frontend & Design** | `React` `TypeScript` `Next.js` `Tailwind CSS` `Figma` `UI/UX Architecture` |
+| **Backend & APIs** | `Node.js` `REST/GraphQL APIs` `WebSockets` `Auth Systems` `Server-Side Proxies` |
+| **CMS & Architecture** | `WordPress` `Elementor` `Custom JS` `Framer` `Wix Migration` |
+| **Performance & Ops** | `Core Web Vitals Optimization` `SEO Structure` `Webhook Automation` |
 
 ---
 
-## Background
+### 🚀 Engineered For Impact
 
-I studied **Communication and Media Studies at Universiti Sains Islam Malaysia**.
+<div align="center">
 
-That background influences how I approach web development. A website isn't only a technical implementation — it is also a way of communicating an idea, a product, or a brand.
+| Metric | Detail |
+| :---: | :--- |
+| **38+** | Production-ready SaaS & Web Tools Built |
+| **99.4%** | Client Satisfaction Based on Post-Launch Performance |
+| **14 Days** | Average Turnaround from Prototype to Deployment |
+| **98/100** | Core Web Vitals Rating & Speed Guarantee |
 
-I enjoy working across that boundary.
+</div>
 
 ---
 
-## Now
+### 💡 Core Services
 
-Designing and building for the web.
+* **Custom Web Application Development:** Full-stack architecture, real-time database sync, custom authentication, and clean TypeScript codebases.
+* **High-Converting Landing Pages:** High-contrast, distraction-free experiences with editorial visual direction and optimized page speed.
+* **Quotation & Invoice Generators:** Custom conditional logic, instant PDF/email summaries, and CRM integrations (HubSpot, Notion).
+* **API Architecture & Integrations:** Secure server-side routes, payment gateway automation, webhook handling, and AI chatbot integrations.
 
-Exploring better ways to connect **design → development → communication**.
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thorifzhafran&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="Thorif's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thorifzhafran&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
 <p align="center">
-  <sub>Designed & built by Thorif Zhafran</sub>
+  <a href="https://www.thorifzhafran.com"><strong>🌐 Visit Official Website</strong></a> &nbsp;&bull;&nbsp;
+  <a href="https://contra.com/thorif_zhafran_3uk03mvu/posts"><strong>💼 Contra Profile</strong></a>
 </p>
