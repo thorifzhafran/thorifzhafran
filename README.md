@@ -73,6 +73,27 @@
 
 ---
 
+### 🚀 Featured Projects
+
+#### 1. [WhatsApp Number Formatter](https://github.com/thorifzhafran/wa-fixer)
+> A tool designed to fix or format WhatsApp phone numbers/links cleanly for communication and automation tasks.
+> 
+> <a href="https://github.com/thorifzhafran/wa-fixer"><code>🔗 Visit Repository</code></a>
+
+
+#### 2. [3 Currency-Converter](https://github.com/thorifzhafran/3-Currency-Converter)
+> A handy multi-currency conversion utility built to easily switch and calculate exchange rates across different currencies.
+> 
+> <a href="https://github.com/thorifzhafran/3-Currency-Converter"><code>🔗 Visit Repository</code></a>
+
+
+#### 3. [Unlimited Free P2P File Sharing - No Backend](https://github.com/thorifzhafran/file-sharing)
+> A lightweight application or script structured to facilitate quick and seamless file sharing between users or devices.
+> 
+> <a href="https://github.com/thorifzhafran/file-sharing"><code>🔗 Visit Repository</code></a>
+
+---
+
 <p align="center">
   &nbsp;&bull;&nbsp <a href="https://www.thorifzhafran.com"><strong>🌐 Visit Official Website</strong></a> &nbsp;&bull;&nbsp;
 </p>
