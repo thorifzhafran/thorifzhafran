@@ -75,6 +75,7 @@
 
 ### 🚀 Featured Projects
 
+
 #### 1. [WhatsApp Number Formatter](https://github.com/thorifzhafran/wa-fixer)
 > A tool designed to fix or format WhatsApp phone numbers/links cleanly for communication and automation tasks.
 > 
@@ -89,11 +90,11 @@
 > <a href="https://thorifzhafran.com/currency-converter/"><code>🌐 Visit Live URL</code></a>
 
 
-#### 3. [Unlimited Free P2P File Sharing - No Backend](https://github.com/thorifzhafran/file-sharing)
-> A lightweight application or script structured to facilitate quick and seamless file sharing between users or devices.
+#### 3. [WhatsApp Number Formatter](https://github.com/thorifzhafran/wa-fixer)
+> A tool designed to fix or format WhatsApp phone numbers/links cleanly for communication and automation tasks.
 > 
-> <a href="https://github.com/thorifzhafran/file-sharing"><code>🔗 Visit Repository</code></a>
-> <a href="https://webinesia.com/file-sharing/"><code>🌐 Visit Live URL</code></a>
+> <a href="https://github.com/thorifzhafran/wa-fixer"><code>🔗 Visit Repository</code></a>
+> <a href="https://thorifzhafran.github.io/wa-fixer/"><code>🌐 Visit Live URL</code></a3
 
 ---
 
