@@ -95,6 +95,12 @@
 > <a href="https://github.com/thorifzhafran/wa-fixer"><code>🔗 Visit Repository</code></a>
 > <a href="https://thorifzhafran.github.io/wa-fixer/"><code>🌐 Visit Live URL</code></a>
 
+#### 4. [Excel / CSV to Web Viewer](https://github.com/thorifzhafran/Excel-to-Web-Converter)
+> A tool designed to fix or format WhatsApp phone numbers/links cleanly for communication and automation tasks.
+> 
+> <a href="https://github.com/thorifzhafran/Excel-to-Web-Converter"><code>🔗 Visit Repository</code></a>
+> <a href="https://thorifzhafran.github.io/Excel-to-Web-Converter/"><code>🌐 Visit Live URL</code></a>
+
 ---
 
 <p align="center">
