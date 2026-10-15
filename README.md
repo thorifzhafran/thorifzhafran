@@ -96,10 +96,16 @@
 > <a href="https://thorifzhafran.github.io/wa-fixer/"><code>🌐 Visit Live URL</code></a>
 
 #### 4. [Excel / CSV to Web Viewer](https://github.com/thorifzhafran/Excel-to-Web-Converter)
-> A tool designed to fix or format WhatsApp phone numbers/links cleanly for communication and automation tasks.
+> View Excel / CSV data in a much more convenient way, no messy coloumn, easy to search.
 > 
 > <a href="https://github.com/thorifzhafran/Excel-to-Web-Converter"><code>🔗 Visit Repository</code></a>
 > <a href="https://thorifzhafran.github.io/Excel-to-Web-Converter/"><code>🌐 Visit Live URL</code></a>
+
+#### 5. [PDF & Image Watermarker](https://github.com/thorifzhafran/PDF-Image-Watermarker)
+> A privacy-first, zero-upload utility designed to watermark sensitive credentials (passports, certificates, and ID documents) directly inside your browser.
+> 
+> <a href="https://github.com/thorifzhafran/PDF-Image-Watermarker"><code>🔗 Visit Repository</code></a>
+> <a href="https://thorifzhafran.github.io/PDF-Image-Watermarker/"><code>🌐 Visit Live URL</code></a>
 
 ---
 
